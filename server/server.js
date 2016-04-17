@@ -4,11 +4,12 @@ var express = require('express');
 var chalk = require('chalk');
 var config = require('./config/environment');
 var mongoose = require('mongoose');
+var http = require('http');
 
 mongoose.connect(config.mongo.uri, config.mongo.options);
 
 var app = express();
-var server = require('http').createServer(app);
+var server = http.createServer(app);
 
 require('./config/express')(app);
 require('./routes')(app);
