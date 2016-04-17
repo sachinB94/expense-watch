@@ -1,7 +1,5 @@
 'use strict';
 
-process.env.NODE_ENV = 'production'; 
-
 var express = require('express');
 var chalk = require('chalk');
 var config = require('./config/environment');
