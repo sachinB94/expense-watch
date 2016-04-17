@@ -1,6 +1,7 @@
 {
   "name": "expenseWatch",
   "version": "0.1.0",
+  "private": true,
   "devDependencies": {
     "apidoc": "^0.13.1",
     "del": "^2.0.2",
