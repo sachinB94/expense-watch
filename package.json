@@ -2,6 +2,10 @@
   "name": "expenseWatch",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
   "devDependencies": {
     "apidoc": "^0.13.1",
     "del": "^2.0.2",
