@@ -34,7 +34,7 @@ Run the `gulp build` process and serve the `dist` directory.
 
     npm start:prod
 
-Run the `gulp build` process and serve the `dist` directory.
+Run the `gulp build` process and serve the `dist` directory using `production` environment.
 
 
 ## License
