@@ -63,7 +63,6 @@ module.exports = {
         _id: expenseId
       })
       .then(function(response) {
-        console.log('response', response);
         req.data = response.result;
         return next();
       })

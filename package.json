@@ -71,6 +71,7 @@
   "mail": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
+    "start:prod": "NODE_ENV=production node server/server.js",
     "test": "gulp test"
   }
 }
