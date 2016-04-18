@@ -17,15 +17,6 @@ Features:
     git clone https://github.com/sachinb94/expense-watch.git
     npm install && bower install
 
-### Table of contents
-
-- [Manage project](https://github.com/42Zavattas/generator-bangular#manage-project)
-- [Generators](https://github.com/42Zavattas/generator-bangular#generators)
-- [HOWTOs](https://github.com/42Zavattas/generator-bangular#howtos)
-  - [Protractor](https://github.com/42Zavattas/generator-bangular#protractor)
-  - [Sockets](https://github.com/42Zavattas/generator-bangular#sockets)
-  - [Passport](https://github.com/42Zavattas/generator-bangular#passport)
-- [Architecture](https://github.com/42Zavattas/generator-bangular#architecture)
 
 # Manage project
 
